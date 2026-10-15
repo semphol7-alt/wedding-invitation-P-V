@@ -1,0 +1,8 @@
+{
+  "name": "Khmer Wedding E-Invitation - ធៀបការរៀបអាពាហ៍ពិពាហ៍",
+  "description": "កម្មវិធីធៀបការអេឡិចត្រូនិក និងកាតអញ្ជើញមង្គលការខ្មែរ ជាមួយនឹងផែនទី កម្មវិធីបុណ្យ ជូនពរឌីជីថល និងការបញ្ជាក់ចូលរួម (Digital Cambodian Wedding Invitation & RSVP)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
